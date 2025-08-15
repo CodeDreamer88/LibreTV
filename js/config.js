@@ -217,7 +217,7 @@ const API_SITES = {
     qiqi: {
         api: 'https://www.qiqidys.com/api.php/provide/vod',
         name: '七七资源'
-    },
+    }
 }
 
 // 定义合并方法
